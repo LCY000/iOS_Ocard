@@ -42,6 +42,16 @@
 
 
 
+## 📸 畫面預覽
+
+| 首頁 | 點進文章 | 搜尋 PO 文 |
+|:---:|:---:|:---:|
+| ![首頁](./Example_1.png) | ![文章詳情](./Example_2.png) | ![搜尋發文](./Example_3.png) |
+
+本專案 UI 設計參考 [Dcard](https://www.dcard.tw/) iOS App。
+
+
+
 ## 🛠 技術棧
 
 | 項目 | 技術 |
@@ -79,12 +89,6 @@ open Hw2_AppUI.xcodeproj
 - 首次啟動自動產生 Mock 資料（15 篇文章 + 180 則情境留言）
 - 資料儲存在 UserDefaults，重開 App 資料仍在
 - 如需重置：刪除 App 重新安裝
-
-
-
-## 📸 參考設計
-
-本專案 UI 設計參考 [Dcard](https://www.dcard.tw/) iOS App。
 
 
 
