@@ -1,10 +1,6 @@
 # 🎯 Ocard — 仿 Dcard 社群論壇 App
 
-<p align="center">
-  <strong>以 SwiftUI 重現 Dcard 介面設計的 iOS 課程作業</strong>
-</p>
-
----
+以 SwiftUI 重現 Dcard 介面設計的 iOS 課程作業
 
 ## 📖 專案背景
 
@@ -15,7 +11,7 @@
 
 我選擇了 **Dcard** 作為模仿對象，使用純 SwiftUI 盡力還原其介面風格與互動體驗。本專案**以 UI 呈現為核心**，部分功能僅為展示用途（如搜尋、通知、分享等為靜態模擬），資料為本地 Mock 資料，並非連接後端 API。
 
----
+
 
 ## ✨ 已實作的畫面與功能
 
@@ -44,7 +40,7 @@
 - 分享按鈕（佔位）
 - 照片/相機/表情等工具列按鈕（佔位）
 
----
+
 
 ## 🛠 技術棧
 
@@ -56,7 +52,7 @@
 | 資料持久化 | UserDefaults + Codable |
 | 導航 | NavigationStack |
 
----
+
 
 ## 📂 專案結構
 
@@ -71,7 +67,7 @@ Hw2_AppUI/
 
 > 📘 完整的技術細節、架構設計、API 列表請參考 [DEVELOPMENT.md](./DEVELOPMENT.md)
 
----
+
 
 ## 🚀 快速開始
 
@@ -84,13 +80,13 @@ open Hw2_AppUI.xcodeproj
 - 資料儲存在 UserDefaults，重開 App 資料仍在
 - 如需重置：刪除 App 重新安裝
 
----
+
 
 ## 📸 參考設計
 
 本專案 UI 設計參考 [Dcard](https://www.dcard.tw/) iOS App。
 
----
+
 
 ## 📄 License
 
